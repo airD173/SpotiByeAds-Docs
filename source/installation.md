@@ -42,6 +42,12 @@ If you don't get an output like that, you need to install Python 3. Run the comm
 (ubuntu-pip)=
 #### Installing pip
 
+```{admonition} Warning:
+:class: warning
+
+Most distributions don't come with pip installed. Run `pip3 --version` to see if it's installed. If not, run `sudo apt install pip`
+```
+
 Even if you have Python 3, you may not have pip on Debian/Ubuntu. To check if you have pip installed, run the command `pip3 --version` in a terminal. If you get an output such as `pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)`, then you already have pip installed. If not, run the command `sudo apt install python3-pip`.
 
 (project-download)=
