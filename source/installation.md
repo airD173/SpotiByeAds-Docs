@@ -8,7 +8,13 @@ Here we will go over installing Python 3 and pip, downloading the project, and i
 (windows-installation)=
 ### Windows
 
-If you already have Python 3, skip this section. Navigate to [python.org/downloads](https://www.python.org/downloads/). In this guide, we'll be installing the latest version of Python as it's the simplest way, but if you want you can install an older and more stable version.
+If you already have Python 3, skip this section. Navigate to [python.org/downloads](https://www.python.org/downloads/).
+
+```{admonition} Tip:
+:class: tip
+
+You may install an older and more stable version of Python if you know how to
+```
 
 ![win-python-download](https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png)
 
@@ -41,6 +47,12 @@ Even if you have Python 3, you may not have pip on Debian/Ubuntu. To check if yo
 (project-download)=
 ## Downloading the project
 
+```{admonition} Tip:
+:class: tip
+
+If you have git installed, you may clone the repo instead
+```
+
 Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/SpotiByeAds).
 
 ![gh-download](https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png)
@@ -69,6 +81,12 @@ After downloading the ZIP file, right click on it and press "Extract Here".
 
 (package-installation)=
 ## Installing packages
+
+```{admonition} Tip:
+:class: tip
+
+If you know how to, you may also install using requirements.txt
+```
 
 Open Command Prompt or PowerShell on Windows or Terminal on Debian/Ubuntu. Type in the command `pip install spotipy pynput`. On Debian/Ubuntu you may need to type `pip3 install spotipy pynput`.
 You should get a success message similar to `Successfully installed pynput-1.7.3 spotipy-2.18.0`, but it may be slightly different.
