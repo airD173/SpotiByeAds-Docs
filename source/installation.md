@@ -1,5 +1,7 @@
 # Installation
 
+Here we will go over installing Python 3 and pip, downloading the project, and installing the necessary packages using pip.
+
 (python-intallation)=
 ## Installing Python 3
 
