@@ -25,8 +25,16 @@ If you see a screen something like this, you have successfully installed Python 
 (ubuntu-installation)=
 ### Debian/Ubuntu
 
-First check if you already have Python 3 installed. Run the command `python3 --version`. If you get a response similar to `Python 3.8.10`, then you can skip this section.
-If you don't get an output like that, you need to install Python 3. In a terminal, run the command `sudo apt install python3`, and then `sudo apt install python3-pip`.
+(ubuntu-python)=
+#### Installing Python 3
+
+Since most Debian based Linux distributions come with Python 3, first check if you already have it installed. Run the command `python3 --version`. If you get a response similar to `Python 3.8.10`, then you already have Python installed.
+If you don't get an output like that, you need to install Python 3. In a terminal, run the command `sudo apt install python3`.
+
+(ubuntu-pip)=
+#### Installing pip
+
+Even if you have Python 3, you may not have pip on Debian/Ubuntu. To check if you have pip installed, run the command `pip3 --version`. If you get an output such as `pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)`, then you already have pip installed. If not, run the command `sudo apt install python3-pip`.
 
 (project-download)=
 ## Downloading the project
