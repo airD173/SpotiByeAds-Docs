@@ -49,6 +49,9 @@ After downloading the ZIP file, right click on it and press "Extract All".
 
 Choose where you want to extract the project to and press "Extract".
 
+(ubuntu-extraction)=
+### Debian/Ubuntu
+
 (package-installation)=
 ## Installing packages
 
