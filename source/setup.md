@@ -35,7 +35,7 @@ Enter information as prompted. You may choose to save your information for a fut
 
 Press the green agree button.
 
-![spotify-application-success](https://cdn.discordapp.com/attachments/847957606567378984/874010134307803196/spotify-application-success2.png)
+![spotify-application-success](https://cdn.discordapp.com/attachments/847957606567378984/874001761193574440/spotify-application-success.png)
 
 If all goes well, you should see a window like this.
 
