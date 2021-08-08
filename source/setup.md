@@ -11,9 +11,7 @@ Navigate to [www.developer.spotify.com/dashboard/](https://developer.spotify.com
 
 Click on the green "Create An App" button. Add anything you want as the app name and app description.
 
-![spotify-application-edit](https://cdn.discordapp.com/attachments/847957606567378984/873999420646125618/spotify-application-edit.png)
-
-![spotify-application-edit2](https://cdn.discordapp.com/attachments/847957606567378984/874006940664102922/spotify-application-edit2.png)
+![spotify-application-edit](https://cdn.discordapp.com/attachments/847957606567378984/874006940664102922/spotify-application-edit2.png)
 
 Click on the green "Edit Settings" button.
 
@@ -33,11 +31,11 @@ Open the folder where you saved SpotiByeAds. Double-click on main.py (on Debian/
 
 Enter information as prompted. You may choose to save your information for a future session if you want to.
 
-![spotify-application-agree](https://cdn.discordapp.com/attachments/847957606567378984/874001518783770645/spotify-application-agree.png)
+![spotify-application-agree](https://cdn.discordapp.com/attachments/847957606567378984/874008393604546681/spotify-application-agree2.png)
 
 Press the green agree button.
 
-![spotify-application-success](https://cdn.discordapp.com/attachments/847957606567378984/874001761193574440/spotify-application-success.png)
+![spotify-application-success](https://cdn.discordapp.com/attachments/847957606567378984/874008670617358376/spotify-application-success2.png)
 
 If all goes well, you should see a window like this.
 
