@@ -45,7 +45,7 @@ If you don't get an output like that, you need to install Python 3. Run the comm
 ```{admonition} Warning:
 :class: warning
 
-Most distributions don't come with pip installed. Run `pip3 --version` to see if it's installed. If not, run `sudo apt install pip`.
+Most distributions don't come with pip installed. Run `pip3 --version` to see if it's installed. If not, run `sudo apt install python3-pip`.
 ```
 
 (project-download)=
