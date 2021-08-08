@@ -11,11 +11,11 @@ Navigate to [www.developer.spotify.com/dashboard/](https://developer.spotify.com
 
 Click on the green "Create An App" button. Add anything you want as the app name and app description.
 
-![spotify-application-edit](https://cdn.discordapp.com/attachments/847957606567378984/874006940664102922/spotify-application-edit2.png)
+![spotify-application-edit](https://cdn.discordapp.com/attachments/847957606567378984/873999420646125618/spotify-application-edit.png)
 
 Click on the green "Edit Settings" button.
 
-![spotify-application-redirect](https://cdn.discordapp.com/attachments/847957606567378984/873999917268471848/spotify-application-redirect.png)
+![spotify-application-redirect](https://cdn.discordapp.com/attachments/847957606567378984/874006940664102922/spotify-application-edit2.png)
 
 Set the "Redirect URI" section to [http://localhost:8080/](http://localhost:8080/). Save the settings.
 
@@ -35,7 +35,7 @@ Enter information as prompted. You may choose to save your information for a fut
 
 Press the green agree button.
 
-![spotify-application-success](https://cdn.discordapp.com/attachments/847957606567378984/874008670617358376/spotify-application-success2.png)
+![spotify-application-success](https://cdn.discordapp.com/attachments/847957606567378984/874001761193574440/spotify-application-success.png)
 
 If all goes well, you should see a window like this.
 
