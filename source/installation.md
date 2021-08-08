@@ -86,5 +86,8 @@ After downloading the ZIP file, right click on it and press "Extract Here".
 (package-installation)=
 ## Installing packages
 
-The program now installs packages automatically, so you no longer have to manually install anything.
+```{admonition} Note:
+:class: note
 
+The program now installs packages automatically, so you no longer have to manually install anything.
+```
