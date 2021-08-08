@@ -12,7 +12,8 @@ Navigate to [www.developer.spotify.com/dashboard/](https://developer.spotify.com
 Click on the green "Create An App" button. Add anything you want as the app name and app description.
 
 ![spotify-application-edit](https://cdn.discordapp.com/attachments/847957606567378984/873999420646125618/spotify-application-edit.png)
-![spotify-application-edit2](https://cdn.discordapp.com/attachments/847957606567378984/874006940664102922/spotify-application-edit2.png
+
+![spotify-application-edit2](https://cdn.discordapp.com/attachments/847957606567378984/874006940664102922/spotify-application-edit2.png)
 
 Click on the green "Edit Settings" button.
 
