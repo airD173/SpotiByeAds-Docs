@@ -82,12 +82,5 @@ After downloading the ZIP file, right click on it and press "Extract Here".
 (package-installation)=
 ## Installing packages
 
-```{admonition} Tip:
-:class: tip
-
-If you know how to, you may also install using requirements.txt
-```
-
-Open Command Prompt or PowerShell on Windows or Terminal on Debian/Ubuntu. Type in the command `pip install spotipy pynput`. On Debian/Ubuntu you may need to type `pip3 install spotipy pynput`.
-You should get a success message similar to `Successfully installed pynput-1.7.3 spotipy-2.18.0`, but it may be slightly different.
+The program now installs packages automatically, so you no longer have to manually install anything.
 
