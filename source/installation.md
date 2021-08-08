@@ -8,17 +8,17 @@
 
 If you already have Python 3, skip this section. Navigate to [python.org/downloads](https://www.python.org/downloads/). In this guide, we'll be installing the latest version of Python as it's the simplest way, but if you want you can install an older and more stable version.
 
-![python-download](_static/img/win-python-download.png)
+![python-download](https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png)
 
 Click on the large yellow button close to the top of the screen. Here it says "Download Python 3.9.6", but it may be slightly different for you.
 Open the downloaded file. It should look something like this.
 
 
-![python-install](_static/img/win-python-install.png)
+![python-install](https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png)
 
 Make sure "Add Python to PATH" is checked towards the bottom. Click "Install Now", grant any permissions it asks for, and wait for it to complete.
 
-![python-install-success](_static/img/win-python-install-success.png)
+![python-install-success](https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png)
 
 If you see a screen something like this, you have successfully installed Python 3!
 
@@ -29,7 +29,9 @@ If you see a screen something like this, you have successfully installed Python 
 (project-download)=
 ## Downloading the project
 
-Navigate to [github.com/daspartho/SpotiByeAds](_static/img/gh-download.png)
+Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/SpotiByeAds).
+
+![gh-download](https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png)
 
 Click on the green button labeled "Code" and click on it. A drop down menu should appear. Press "Download ZIP".
 
@@ -39,11 +41,11 @@ Click on the green button labeled "Code" and click on it. A drop down menu shoul
 
 (win-extraction)=
 ### Windows
-![extract-zip-1](_static/img/win-extract-zip-1.png)
+![extract-zip-1](https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png)
 
 After downloading the ZIP file, right click on it and press "Extract All".
 
-![extract-zip-2](_static/img/win-extract-zip-2.png)
+![extract-zip-2](https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png)
 
 Choose where you want to extract the project to and press "Extract".
 
