@@ -40,12 +40,12 @@
 <section id="windows">
 <span id="windows-installation"></span><h3>Windows<a class="headerlink" href="#windows" title="Permalink to this headline">¶</a></h3>
 <p>If you already have Python 3, skip this section. Navigate to <a class="reference external" href="https://www.python.org/downloads/">python.org/downloads</a>. In this guide, we’ll be installing the latest version of Python as it’s the simplest way, but if you want you can install an older and more stable version.</p>
-<p><img alt="python-download" src="img/win-python-download.png" /></p>
+<p><img alt="python-download" src="_static/img/win-python-download.png" /></p>
 <p>Click on the large yellow button close to the top of the screen. Here it says “Download Python 3.9.6”, but it may be slightly different for you.
 Open the downloaded file. It should look something like this.</p>
-<p><img alt="python-install" src="img/win-python-install.png" /></p>
+<p><img alt="python-install" src="_static/img/win-python-install.png" /></p>
 <p>Make sure “Add Python to PATH” is checked towards the bottom. Click “Install Now”, grant any permissions it asks for, and wait for it to complete.</p>
-<p><img alt="python-install-success" src="img/win-python-install-success.png" /></p>
+<p><img alt="python-install-success" src="_static/img/win-python-install-success.png" /></p>
 <p>If you see a screen something like this, you have successfully installed Python 3!</p>
 </section>
 <section id="debian-ubuntu">
@@ -55,15 +55,23 @@ Open the downloaded file. It should look something like this.</p>
 <section id="downloading-the-project">
 <span id="project-download"></span><h2>Downloading the project<a class="headerlink" href="#downloading-the-project" title="Permalink to this headline">¶</a></h2>
 <p>Navigate to <a class="reference external" href="https://www.github.com/daspartho/SpotiByeAds">github.com/daspartho/SpotiByeAds</a>.</p>
-<p><img alt="gh-download" src="img/gh-download.png" /></p>
+<p><img alt="gh-download" src="_static/img/gh-download.png" /></p>
 <p>Click on the green button labeled “Code” and click on it. A drop down menu should appear. Press “Download ZIP”.</p>
 </section>
 <section id="extracting-the-project">
 <span id="project-extraction"></span><h2>Extracting the project<a class="headerlink" href="#extracting-the-project" title="Permalink to this headline">¶</a></h2>
-<p><img alt="extract-zip-1" src="img/win-extract-zip-1.png" /></p>
+<section id="win-extraction">
+<span id="id1"></span><h3>Windows<a class="headerlink" href="#win-extraction" title="Permalink to this headline">¶</a></h3>
+<p><img alt="extract-zip-1" src="_static/img/win-extract-zip-1.png" /></p>
 <p>After downloading the ZIP file, right click on it and press “Extract All”.</p>
-<p><img alt="extract-zip-2" src="img/win-extract-zip-2.png" /></p>
-<p>Choose where you want to extract the project to and press</p>
+<p><img alt="extract-zip-2" src="_static/img/win-extract-zip-2.png" /></p>
+<p>Choose where you want to extract the project to and press “Extract”.</p>
+</section>
+</section>
+<section id="installing-packages">
+<span id="package-installation"></span><h2>Installing packages<a class="headerlink" href="#installing-packages" title="Permalink to this headline">¶</a></h2>
+<p>Open Command Prompt or PowerShell on Windows or Terminal on Debian/Ubuntu. Type in the command <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">spotipy</span> <span class="pre">pynput</span></code>. On Debian/Ubuntu you may need to type <code class="docutils literal notranslate"><span class="pre">pip3</span> <span class="pre">install</span> <span class="pre">spotipy</span> <span class="pre">pynput</span></code>.
+You should get a success message similar to <code class="docutils literal notranslate"><span class="pre">Successfully</span> <span class="pre">installed</span> <span class="pre">pynput-1.7.3</span> <span class="pre">spotipy-2.18.0</span></code>, but it may be slightly different.</p>
 </section>
 </section>
 
@@ -93,7 +101,11 @@ Open the downloaded file. It should look something like this.</p>
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="#downloading-the-project">Downloading the project</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#extracting-the-project">Extracting the project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#extracting-the-project">Extracting the project</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#win-extraction">Windows</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#installing-packages">Installing packages</a></li>
 </ul>
 </li>
 </ul>
