@@ -24,7 +24,7 @@ If you see a screen something like this, you have successfully installed Python 
 
 (ubuntu-installation)=
 ### Debian/Ubuntu
-#sdgffdsag
+
 
 (project-download)=
 ## Downloading the project
