@@ -13,7 +13,7 @@ If you already have Python 3, skip this section. Navigate to [python.org/downloa
 ```{admonition} Tip:
 :class: tip
 
-You may install an older and more stable version of Python
+You may install an older and more stable version of Python if you would prefer
 ```
 
 ![win-python-download](https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png)
