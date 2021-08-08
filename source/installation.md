@@ -8,23 +8,24 @@
 
 If you already have Python 3, skip this section. Navigate to [python.org/downloads](https://www.python.org/downloads/). In this guide, we'll be installing the latest version of Python as it's the simplest way, but if you want you can install an older and more stable version.
 
-![python-download](https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png)
+![win-python-download](https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png)
 
 Click on the large yellow button close to the top of the screen. Here it says "Download Python 3.9.6", but it may be slightly different for you.
 Open the downloaded file. It should look something like this.
 
 
-![python-install](https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png)
+![win-python-install](https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png)
 
 Make sure "Add Python to PATH" is checked towards the bottom. Click "Install Now", grant any permissions it asks for, and wait for it to complete.
 
-![python-install-success](https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png)
+![win-python-install-success](https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png)
 
 If you see a screen something like this, you have successfully installed Python 3!
 
 (ubuntu-installation)=
 ### Debian/Ubuntu
 
+First check if you already have Python 3 installed. Run the command `python3 --version`. If you get a response similar to `Python 3.8.10`, then you can skip this section.
 
 (project-download)=
 ## Downloading the project
@@ -41,16 +42,20 @@ Click on the green button labeled "Code" and click on it. A drop down menu shoul
 
 (win-extraction)=
 ### Windows
-![extract-zip-1](https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png)
+![win-extract-zip-1](https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png)
 
 After downloading the ZIP file, right click on it and press "Extract All".
 
-![extract-zip-2](https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png)
+![win-extract-zip-2](https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png)
 
 Choose where you want to extract the project to and press "Extract".
 
 (ubuntu-extraction)=
 ### Debian/Ubuntu
+
+![ubuntu-extract-zip](https://cdn.discordapp.com/attachments/847957606567378984/873977045053485086/ubuntu-extract-zip.png)
+
+After downloading the ZIP file, right click on it and press "Extract Here".
 
 (package-installation)=
 ## Installing packages
