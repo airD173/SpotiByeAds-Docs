@@ -11,6 +11,7 @@ Welcome to SpotiByeAds's documentation!
    :caption: Contents:
    
    installation.md
+   setup.md
 
 
 
