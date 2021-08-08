@@ -10,7 +10,7 @@ Welcome to SpotiByeAds's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   myfile.md
+   installation.md
 
 
 
