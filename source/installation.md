@@ -26,6 +26,7 @@ If you see a screen something like this, you have successfully installed Python 
 ### Debian/Ubuntu
 
 First check if you already have Python 3 installed. Run the command `python3 --version`. If you get a response similar to `Python 3.8.10`, then you can skip this section.
+If you don't get an output like that, you need to install Python 3. In a terminal, run the command `sudo apt install python3`, and then `sudo apt install python3-pip`.
 
 (project-download)=
 ## Downloading the project
@@ -35,7 +36,6 @@ Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/
 ![gh-download](https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png)
 
 Click on the green button labeled "Code" and click on it. A drop down menu should appear. Press "Download ZIP".
-
 
 (project-extraction)=
 ## Extracting the project
