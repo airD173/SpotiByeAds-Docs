@@ -94,3 +94,32 @@ The program now installs packages automatically, so you no longer have to manual
 
 Open Command Prompt or PowerShell on Windows or Terminal on Debian/Ubuntu. Type in the command `pip install spotipy pynput`. On Debian/Ubuntu you may need to type `pip3 install spotipy pynput`.
 You should get a success message similar to `Successfully installed pynput-1.7.3 spotipy-2.18.0`, but it may be slightly different.
+
+(win-path)=
+## Adding Spotify to PATH
+
+```{admonition} Note:
+:class: note
+
+This is only required for Windows systems. Linux users can skip this step.
+```
+
+![spotify-path1](https://cdn.discordapp.com/attachments/847957606567378984/874104192527106078/spotify-path1.png)
+
+Search up Spotify in Windows search (Windows Key + S) and press "Open file location".
+
+![spotify-path2](https://cdn.discordapp.com/attachments/847957606567378984/874104875657617468/spotify-path2.png)
+
+This should bring up a Spotify shortcut. Right-click on that and press "Open file location".
+
+![spotify-path3](https://cdn.discordapp.com/attachments/847957606567378984/874107667319242813/spotify-path3.png)
+
+```{admonition} Tip:
+:class: tip
+
+The default path for Spotify is C:\Users\yourname\AppData\Roaming\Spotify
+```
+
+This should open the location of the Spotify executable. Click on the path at the top of the File Explorer and copy it.
+From the command line, run `setx path "%path; spotifypath"`, replacing spotifypath with the path that you just copied.
+To check that it has been added to the PATH variable, run `cd C:\` and then `path`. You should see the path to Spotify at the very end.
