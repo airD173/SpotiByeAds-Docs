@@ -1,6 +1,6 @@
 # Installation
 
-Here we will go over installing Python 3 and pip, downloading the project, and installing the necessary packages using pip.
+Here we will go over installing Python 3 and pip, downloading the project, installing packages using pip, and adding Spotify to PATH.
 
 (python-intallation)=
 ## Installing Python 3
