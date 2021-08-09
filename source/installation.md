@@ -19,7 +19,7 @@ You may install an older and more stable version of Python if you would prefer
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png
 :alt: win-python-download
-:height: 400px
+:height: 450px
 :align: center
 ```
 
@@ -69,7 +69,7 @@ Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png
 :alt: gh-download
-:height: 400px
+:height: 450px
 :align: center
 ```
 
