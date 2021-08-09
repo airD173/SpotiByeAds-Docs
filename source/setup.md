@@ -21,7 +21,13 @@ Set the "Redirect URI" section to [http://localhost:8080/](http://localhost:8080
 
 ![spotify-application-info](https://cdn.discordapp.com/attachments/847957606567378984/873990653862903818/spotify-application-info.png)
 
-Note down your Client ID and Client Secret somewhere. Be careful with the Client Secret; it's called a secret for a reason.
+Note down your Client ID and Client Secret somewhere.
+
+```{admonition} Warning:
+:class: warning
+
+Be careful with your Client Secret. It's called a secret for a reason.
+```
 
 ## Running The Program
 
