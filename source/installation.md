@@ -19,7 +19,7 @@ You may install an older and more stable version of Python if you would prefer
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png
 :alt: win-python-download
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -29,7 +29,7 @@ Open the downloaded file. It should look something like this.
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png
 :alt: win-python-install
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -38,7 +38,7 @@ Make sure "Add Python to PATH" is checked towards the bottom. Click "Install Now
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png
 :alt: win-python-install-success
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -69,7 +69,7 @@ Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png
 :alt: gh-download
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -82,7 +82,7 @@ Click on the green button labeled "Code" and click on it. A drop down menu shoul
 ### Windows
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png
 :alt: win-extract-zip-1
-:width: 300px
+:height: 400px
 :align: center
 ```
 
@@ -90,7 +90,7 @@ After downloading the ZIP file, right click on it and press "Extract All".
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png
 :alt: win-extract-zip-2
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -101,7 +101,7 @@ Choose where you want to extract the project to and press "Extract".
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/873977045053485086/ubuntu-extract-zip.png
 :alt: ubuntu-extract-zip
-:width: 300px
+:height: 400px
 :align: center
 ```
 
@@ -130,7 +130,7 @@ This is only required for Windows systems. Linux users can skip this step.
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/874104192527106078/spotify-path1.png
 :alt: spotify-path1
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -138,7 +138,7 @@ Search up Spotify in Windows search (Windows Key + S) and press "Open file locat
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/874104875657617468/spotify-path2.png
 :alt: spotify-path2
-:width: 600px
+:height: 400px
 :align: center
 ```
 
@@ -146,7 +146,7 @@ This should bring up a Spotify shortcut. Right-click on that and press "Open fil
 
 ```{image} https://cdn.discordapp.com/attachments/847957606567378984/874107667319242813/spotify-path3.png
 :alt: spotify-path3
-:width: 600px
+:height: 400px
 :align: center
 ```
 
