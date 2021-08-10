@@ -118,3 +118,5 @@ The default path for Spotify is C:\Users\yourname\AppData\Roaming\Spotify
 This should open the location of the Spotify executable. Click on the path at the top of the File Explorer and copy it.
 From the command line, run `setx path "%path; spotifypath"`, replacing spotifypath with the path that you just copied.
 To check that it has been added to the PATH variable, run `path`. You should see the path to Spotify you just added at the very end.
+
+Now click "Next" to go over creating a new Spotify application, getting the ClientID and secret, and running the program with them.
