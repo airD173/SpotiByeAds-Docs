@@ -16,17 +16,31 @@ If you already have Python 3, skip this section. Navigate to [python.org/downloa
 You may install an older and more stable version of Python if you would prefer
 ```
 
-![win-python-download](https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png)
+
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png
+:alt: win-python-download
+:height: 450px
+:align: center
+```
 
 Click on the large yellow button close to the top of the screen. Here it says "Download Python 3.9.6", but it may be slightly different for you.
 Open the downloaded file. It should look something like this.
 
 
-![win-python-install](https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png
+:alt: win-python-install
+:height: 400px
+:align: center
+```
 
 Make sure "Add Python to PATH" is checked towards the bottom. Click "Install Now", grant any permissions it asks for, and wait for it to complete.
 
-![win-python-install-success](https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png)
+
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png
+:alt: win-python-install-success
+:height: 400px
+:align: center
+```
 
 If you see a screen something like this, you have successfully installed Python 3!
 
@@ -35,7 +49,6 @@ If you see a screen something like this, you have successfully installed Python 
 
 Since most Debian based Linux distributions come with Python 3, first check if you already have it installed. Run the command `python3 --version`. If you get a response similar to `Python 3.8.10`, then you already have Python installed.
 If you don't get an output like that, you need to install Python 3. Run the command `sudo apt install python3`.
-
 
 ```{admonition} Warning:
 :class: warning
@@ -54,7 +67,11 @@ If you have git installed, you may clone the repo instead
 
 Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/SpotiByeAds).
 
-![gh-download](https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png
+:alt: gh-download
+:height: 450px
+:align: center
+```
 
 Click on the green button labeled "Code" and click on it. A drop down menu should appear. Press "Download ZIP".
 
@@ -63,18 +80,30 @@ Click on the green button labeled "Code" and click on it. A drop down menu shoul
 
 (win-extraction)=
 ### Windows
-![win-extract-zip-1](https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png
+:alt: win-extract-zip-1
+:height: 400px
+:align: center
+```
 
 After downloading the ZIP file, right click on it and press "Extract All".
 
-![win-extract-zip-2](https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png
+:alt: win-extract-zip-2
+:height: 400px
+:align: center
+```
 
 Choose where you want to extract the project to and press "Extract".
 
 (ubuntu-extraction)=
 ### Debian/Ubuntu
 
-![ubuntu-extract-zip](https://cdn.discordapp.com/attachments/847957606567378984/873977045053485086/ubuntu-extract-zip.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/873977045053485086/ubuntu-extract-zip.png
+:alt: ubuntu-extract-zip
+:height: 400px
+:align: center
+```
 
 After downloading the ZIP file, right click on it and press "Extract Here".
 
@@ -99,15 +128,27 @@ You should get a success message similar to `Successfully installed pynput-1.7.3
 This is only required for Windows systems. Linux users can skip this step.
 ```
 
-![spotify-path1](https://cdn.discordapp.com/attachments/847957606567378984/874104192527106078/spotify-path1.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/874104192527106078/spotify-path1.png
+:alt: spotify-path1
+:height: 400px
+:align: center
+```
 
 Search up Spotify in Windows search (Windows Key + S) and press "Open file location".
 
-![spotify-path2](https://cdn.discordapp.com/attachments/847957606567378984/874104875657617468/spotify-path2.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/874104875657617468/spotify-path2.png
+:alt: spotify-path2
+:height: 400px
+:align: center
+```
 
 This should bring up a Spotify shortcut. Right-click on that and press "Open file location".
 
-![spotify-path3](https://cdn.discordapp.com/attachments/847957606567378984/874107667319242813/spotify-path3.png)
+```{image} https://cdn.discordapp.com/attachments/847957606567378984/874107667319242813/spotify-path3.png
+:alt: spotify-path3
+:height: 400px
+:align: center
+```
 
 ```{admonition} Tip:
 :class: tip
