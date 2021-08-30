@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SpotiByeAds's documentation!
-=======================================
+Welcome to `SpotiByeAds's <https://github.com/daspartho/SpotiByeAds>`_ documentation!
+====================================================================================
 
 .. toctree::
    :maxdepth: 3
