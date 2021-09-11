@@ -10,7 +10,6 @@ Welcome to SpotiByeAds's documentation!
    :maxdepth: 3
    :caption: Contents:
    
-   about.md
    installation.md
    setup.md
 
