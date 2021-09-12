@@ -17,7 +17,7 @@ You may install an older and more stable version of Python if you would prefer
 ```
 
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698439303168/win-python-download.png
+```{image} img/win-python-download.png
 :alt: win-python-download
 :height: 450px
 :align: center
@@ -27,7 +27,7 @@ Click on the large yellow button close to the top of the screen. Here it says "D
 Open the downloaded file. It should look something like this.
 
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954698900697168/win-python-install.png
+```{image} img/win-python-install.png
 :alt: win-python-install
 :height: 400px
 :align: center
@@ -36,7 +36,7 @@ Open the downloaded file. It should look something like this.
 Make sure "Add Python to PATH" is checked towards the bottom. Click "Install Now", grant any permissions it asks for, and wait for it to complete.
 
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954699995389962/win-python-install-success.png
+```{image} img/win-python-install-success.png
 :alt: win-python-install-success
 :height: 400px
 :align: center
@@ -67,7 +67,7 @@ If you have git installed, you may clone the repo instead
 
 Navigate to [github.com/daspartho/SpotiByeAds](https://www.github.com/daspartho/SpotiByeAds).
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954690918912070/gh-download.png
+```{image} img/gh-download.png
 :alt: gh-download
 :height: 450px
 :align: center
@@ -80,7 +80,7 @@ Click on the green button labeled "Code" and click on it. A drop down menu shoul
 
 (win-extraction)=
 ### Windows
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954695062896690/win-extract-zip-1.png
+```{image} img/win-extract-zip-1.png
 :alt: win-extract-zip-1
 :height: 400px
 :align: center
@@ -88,7 +88,7 @@ Click on the green button labeled "Code" and click on it. A drop down menu shoul
 
 After downloading the ZIP file, right click on it and press "Extract All".
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873954695759163402/win-extract-zip-2.png
+```{image} img/win-extract-zip-2.png
 :alt: win-extract-zip-2
 :height: 400px
 :align: center
@@ -99,7 +99,7 @@ Choose where you want to extract the project to and press "Extract".
 (ubuntu-extraction)=
 ### Debian/Ubuntu
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/873977045053485086/ubuntu-extract-zip.png
+```{image} img/ubuntu-extract-zip.png
 :alt: ubuntu-extract-zip
 :height: 400px
 :align: center
@@ -128,7 +128,7 @@ You should get a success message similar to `Successfully installed pynput-1.7.3
 This is only required for Windows systems. Linux users can skip this step.
 ```
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/874104192527106078/spotify-path1.png
+```{image} img/spotify-path1.png
 :alt: spotify-path1
 :height: 400px
 :align: center
@@ -136,7 +136,7 @@ This is only required for Windows systems. Linux users can skip this step.
 
 Search up Spotify in Windows search (Windows Key + S) and press "Open file location".
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/874104875657617468/spotify-path2.png
+```{image} img/spotify-path2.png
 :alt: spotify-path2
 :height: 400px
 :align: center
@@ -144,7 +144,7 @@ Search up Spotify in Windows search (Windows Key + S) and press "Open file locat
 
 This should bring up a Spotify shortcut. Right-click on that and press "Open file location".
 
-```{image} https://cdn.discordapp.com/attachments/847957606567378984/874107667319242813/spotify-path3.png
+```{image} img/spotify-path3.png
 :alt: spotify-path3
 :height: 400px
 :align: center
